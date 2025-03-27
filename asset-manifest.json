@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AshokC46/Food-Delivery-Application.git/static/css/main.e6c13ad2.css",
-    "main.js": "/AshokC46/Food-Delivery-Application.git/static/js/main.87f91563.js",
-    "static/js/453.18552275.chunk.js": "/AshokC46/Food-Delivery-Application.git/static/js/453.18552275.chunk.js",
-    "index.html": "/AshokC46/Food-Delivery-Application.git/index.html",
-    "main.e6c13ad2.css.map": "/AshokC46/Food-Delivery-Application.git/static/css/main.e6c13ad2.css.map",
-    "main.87f91563.js.map": "/AshokC46/Food-Delivery-Application.git/static/js/main.87f91563.js.map",
-    "453.18552275.chunk.js.map": "/AshokC46/Food-Delivery-Application.git/static/js/453.18552275.chunk.js.map"
+    "main.css": "/Food-Delivery-Application/static/css/main.e6c13ad2.css",
+    "main.js": "/Food-Delivery-Application/static/js/main.c6288373.js",
+    "static/js/453.18552275.chunk.js": "/Food-Delivery-Application/static/js/453.18552275.chunk.js",
+    "index.html": "/Food-Delivery-Application/index.html",
+    "main.e6c13ad2.css.map": "/Food-Delivery-Application/static/css/main.e6c13ad2.css.map",
+    "main.c6288373.js.map": "/Food-Delivery-Application/static/js/main.c6288373.js.map",
+    "453.18552275.chunk.js.map": "/Food-Delivery-Application/static/js/453.18552275.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.87f91563.js"
+    "static/js/main.c6288373.js"
   ]
 }
