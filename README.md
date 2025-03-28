@@ -42,7 +42,7 @@ A modern and user-friendly food ordering platform built with React and Redux, al
 5️⃣ Open **http://localhost:3000/** in your browser.  
 
 ## 📷 Screenshots
-
+ ![Image](https://github.com/user-attachments/assets/8eff1ad8-afb7-4793-b7a8-a51afb921b83)
 
 ## 📌 Usage
 - Sign up or log in to access the application.
