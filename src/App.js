@@ -7,13 +7,17 @@ import Cart from "./Components/Cart/Cart";
 import Checkout from "./Components/Checkout/Checkout";
 import Login from "./Components/Login/Login";
 import Signup from "./Components/SignUp/SignUp";
+import Home from "./Components/Home";
+
 
 function App() {
   return (
     <Provider store={store}>
       <Router>
+      
         <Routes>
-          <Route path="/" element={<RestaurantList />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/restaurant" element={<RestaurantList />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/checkout" element={<Checkout />} />
           <Route path="/login" element={<Login />} />
