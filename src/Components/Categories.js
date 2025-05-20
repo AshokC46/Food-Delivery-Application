@@ -18,7 +18,7 @@ const Categories = () => {
                 <img src={item.image} className="card-img-top" alt={item.title} />
                 <div className="card-body text-center">
                   <h5 className="card-title">{item.name}</h5>
-                  <Link to="/cart" className="btn btn-outline-dark btn-sm"> {item.title}</Link>
+                  <Link to="/restaurant" className="btn btn-outline-dark btn-sm"> {item.title}</Link>
                 </div>
               </div>
             </div>
