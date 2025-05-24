@@ -11,6 +11,7 @@ const Signup = () => {
     userName: "",
     email: "",
     password: "",
+    contact: "",     // Added contact here
     rememberMe: false,
   });
 
@@ -24,7 +25,9 @@ const Signup = () => {
 
   const handleSignup = (e) => {
     e.preventDefault();
-    if (userData.userName && userData.email && userData.password) {
+    const { userName, email, password, contact } = userData;
+
+    if (userName && email && password && contact) {
       dispatch(signUp(userData));
       alert("Signup successful! You can now log in.");
       navigate("/login");
@@ -38,17 +41,71 @@ const Signup = () => {
       <div className="card p-4 shadow-sm" style={{ width: "350px", borderRadius: "10px" }}>
         <h2 className="text-center mb-3">Sign Up</h2>
         <form onSubmit={handleSignup}>
-          <input type="text" className="form-control mb-2" placeholder="Enter username" name="userName" value={userData.userName} onChange={handleChange} required />
-          <input type="email" className="form-control mb-2" placeholder="Enter email" name="email" value={userData.email} onChange={handleChange} required />
-          <input type="password" className="form-control mb-3" placeholder="Enter password" name="password" value={userData.password} onChange={handleChange} required />
+          <input
+            type="text"
+            className="form-control mb-2"
+            placeholder="Enter username"
+            name="userName"
+            value={userData.userName}
+            onChange={handleChange}
+            required
+          />
+          <input
+            type="email"
+            className="form-control mb-2"
+            placeholder="Enter email"
+            name="email"
+            value={userData.email}
+            onChange={handleChange}
+            required
+          />
+          <input
+            type="password"
+            className="form-control mb-2"
+            placeholder="Enter password"
+            name="password"
+            value={userData.password}
+            onChange={handleChange}
+            required
+          />
+          {/* New contact input */}
+          <input
+            type="text"
+            className="form-control mb-3"
+            placeholder="Enter mobile number"
+            name="contact"
+            value={userData.contact}
+            onChange={handleChange}
+            required
+          />
           <div className="form-check mb-3">
-            <input type="checkbox" className="form-check-input" id="rememberMe" name="rememberMe" checked={userData.rememberMe} onChange={handleChange} />
-            <label className="form-check-label" htmlFor="rememberMe">Remember Me</label>
+            <input
+              type="checkbox"
+              className="form-check-input"
+              id="rememberMe"
+              name="rememberMe"
+              checked={userData.rememberMe}
+              onChange={handleChange}
+            />
+            <label className="form-check-label" htmlFor="rememberMe">
+              Remember Me
+            </label>
           </div>
-          <button className="btn btn-success w-100" type="submit">Sign Up</button>
+          <button className="btn btn-success w-100" type="submit">
+            Sign Up
+          </button>
         </form>
         <div className="text-center mt-3">
-          <p>Already have an account? <span className="text-decoration-none text-primary" style={{ cursor: "pointer" }} onClick={() => navigate("/login")}>Log In</span></p>
+          <p>
+            Already have an account?{" "}
+            <span
+              className="text-decoration-none text-primary"
+              style={{ cursor: "pointer" }}
+              onClick={() => navigate("/login")}
+            >
+              Log In
+            </span>
+          </p>
         </div>
       </div>
     </div>

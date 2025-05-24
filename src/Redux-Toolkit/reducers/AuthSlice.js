@@ -11,9 +11,19 @@ const AuthSlice = createSlice({
   initialState,
   reducers: {
     signUp: (state, action) => {
-      localStorage.setItem("user", JSON.stringify(action.payload));
-      state.user = action.payload;
+      const { userName, email, password, contact  } = action.payload;
+    
+      const newUser = {
+        userName,
+        email,
+        password,
+        contact,
+      };
+    
+      localStorage.setItem("user", JSON.stringify(newUser));
+      state.user = newUser;
     },
+    
     login: (state, action) => {
       const storedUser = JSON.parse(localStorage.getItem("user"));
       if (

@@ -7,7 +7,7 @@
         "category": "Veg",
         "cuisine": "South Indian",
         "rating": "4.2 ",
-        "price": "320₹",
+        "price": 320,
         "reviews": "1.2K",
         "popularity": "5000"
       },
@@ -18,7 +18,7 @@
         "category": "Non-Veg",
         "cuisine": "Grill",
         "rating": "4.5 ",
-        "price": "700₹",
+        "price": 700,
         "reviews": "1.8K",
         "popularity": "6000"
       },
@@ -29,7 +29,7 @@
         "category": "Desserts",
         "cuisine": "Bakery",
         "rating": "4.4 ",
-        "price": "500₹",
+        "price": 500,
         "reviews": "1.7K",
         "popularity": "4000"
       },
@@ -40,7 +40,7 @@
         "category": "Non-Veg",
         "cuisine": "Chinese",
         "rating": "4.1 ",
-        "price": "520₹",
+        "price": 520,
         "reviews": "1.3K",
         "popularity": "4000"
       },
@@ -51,7 +51,7 @@
         "category": "Veg",
         "cuisine": "North Indian",
         "rating": "4.0 ",
-        "price": "400₹",
+        "price": 400,
         "reviews": "1.1K",
         "popularity": "3000"
       },
@@ -62,7 +62,7 @@
         "category": "Non-Veg",
         "cuisine": "Seafood",
         "rating": "4.0 ",
-        "price": "600₹",
+        "price": 600,
         "reviews": "1.1K",
         "popularity": "3500"
       },
@@ -73,7 +73,7 @@
         "category": "Desserts",
         "cuisine": "Bakery",
         "rating": "3.9 ",
-        "price": "200₹",
+        "price": 200,
         "reviews": "1.7K",
         "popularity": "5500"
       },
@@ -84,7 +84,7 @@
         "category": "Non-Veg",
         "cuisine": "Biryani",
         "rating": "4.7 ",
-        "price": "620₹",
+        "price": 620,
         "reviews": "1.4K",
         "popularity": "2950"
       },
@@ -95,7 +95,7 @@
         "category": "Veg",
         "cuisine": "Rajasthani",
         "rating": "4.0 ",
-        "price": "530₹",
+        "price": 530,
         "reviews": "1.2K",
         "popularity": "6000"
       },
@@ -106,7 +106,7 @@
         "category": "Non-Veg",
         "cuisine": "Hyderabadi",
         "rating": "4.8 ",
-        "price": "730₹",
+        "price": 730,
         "reviews": "2.1K",
         "popularity": "7000"
       },
@@ -117,7 +117,7 @@
         "category": "Desserts",
         "cuisine": "Belgian",
         "rating": "4.5 ",
-        "price": "250₹",
+        "price": 250,
         "reviews": "1.2K",
         "popularity": "5200"
       },
@@ -128,7 +128,7 @@
         "category": "Veg",
         "cuisine": "South Indian",
         "rating": "4.9 ",
-        "price": "450₹",
+        "price": 450,
         "reviews": "1.9K",
         "popularity": "5450"
       },
@@ -139,7 +139,7 @@
         "category": "Non-Veg",
         "cuisine": "Mughlai",
         "rating": "3 ",
-        "price": "450₹",
+        "price": 450,
         "reviews": "1.4K",
         "popularity": "5670"
       },
@@ -150,7 +150,7 @@
         "category": "Desserts",
         "cuisine": "Indian",
         "rating": "4.2 ",
-        "price": "220₹",
+        "price": 220,
         "reviews": "1.2K",
         "popularity": "5700"
       },
@@ -161,7 +161,7 @@
         "category": "Non-Veg",
         "cuisine": "Japanese",
         "rating": "4.7 ",
-        "price": "800₹",
+        "price": 800,
         "reviews": "1.6K",
         "popularity": "5900"
       },
@@ -172,7 +172,7 @@
         "category": "Veg",
         "cuisine": "Vegan",
         "rating": "4.3 ",
-        "price": "440₹",
+        "price": 440,
         "reviews": "1.45K",
         "popularity": "4500"
       },
@@ -183,7 +183,7 @@
         "category": "Non-Veg",
         "cuisine": "Middle Eastern",
         "rating": "2.9 ",
-        "price": "420₹",
+        "price": 420,
         "reviews": "1.0K",
         "popularity": "2900"
       },
@@ -194,7 +194,7 @@
         "category": "Desserts",
         "cuisine": "Confectionery",
         "rating": "4.5 ",
-        "price": "406₹",
+        "price": 406,
         "reviews": "1.9K",
         "popularity": "4500"
       },
@@ -205,7 +205,7 @@
         "category": "Non-Veg",
         "cuisine": "Mediterranean",
         "rating": "4.5 ",
-        "price": "380₹",
+        "price": 380,
         "reviews": "1.2K",
         "popularity": "5960"
       },
@@ -216,7 +216,7 @@
         "category": "Veg",
         "cuisine": "Italian",
         "rating": "4.9 ",
-        "price": "560₹",
+        "price": 560,
         "reviews": "1.2K",
         "popularity": "6000"
       },
@@ -227,7 +227,7 @@
         "category": "Desserts",
         "cuisine": "Indian",
         "rating": "4.2 ",
-        "price": "120₹",
+        "price": 120,
         "reviews": "1.5K",
         "popularity": "9000"
       },
@@ -238,7 +238,7 @@
         "category": "Veg",
         "cuisine": "Gujarati",
         "rating": "4.5 ",
-        "price": "550₹",
+        "price": 550,
         "reviews": "1.8K",
         "popularity": "5200"
       },
@@ -249,7 +249,7 @@
         "category": "Non-Veg",
         "cuisine": "Tamil",
         "rating": "4.7 ",
-        "price": "600₹",
+        "price": 600,
         "reviews": "2.1K",
         "popularity": "6200"
       },
@@ -260,7 +260,7 @@
         "category": "Veg",
         "cuisine": "North Indian",
         "rating": "4.3 ",
-        "price": "300₹",
+        "price": 300,
         "reviews": "1.5K",
         "popularity": "4500"
       },
@@ -271,7 +271,7 @@
         "category": "Non-Veg",
         "cuisine": "Hyderabadi",
         "rating": "4.8 ",
-        "price": "750₹",
+        "price": 750,
         "reviews": "2.5K",
         "popularity": "7000"
       },
@@ -282,7 +282,7 @@
         "category": "Desserts",
         "cuisine": "Maharashtrian",
         "rating": "4.6 ",
-        "price": "280₹",
+        "price": 280,
         "reviews": "1.9K",
         "popularity": "5400"
       },
@@ -293,7 +293,7 @@
         "category": "Veg",
         "cuisine": "South Indian",
         "rating": "4.2 ",
-        "price": "400₹",
+        "price": 400,
         "reviews": "1.4K",
         "popularity": "4100"
       },
@@ -304,7 +304,7 @@
         "category": "Non-Veg",
         "cuisine": "Mughlai",
         "rating": "4.5 ",
-        "price": "650₹",
+        "price": 650,
         "reviews": "1.7K",
         "popularity": "5900"
       },
@@ -315,7 +315,7 @@
         "category": "Desserts",
         "cuisine": "Rajasthani",
         "rating": "4.4 ",
-        "price": "350₹",
+        "price": 350,
         "reviews": "2.0K",
         "popularity": "5700"
       },
@@ -326,7 +326,7 @@
         "category": "Non-Veg",
         "cuisine": "Chettinad",
         "rating": "4.3 ",
-        "price": "680₹",
+        "price": 680,
         "reviews": "1.6K",
         "popularity": "5300"
       },
@@ -337,7 +337,7 @@
         "category": "Non-Veg",
         "cuisine": "Punjabi",
         "rating": "4.6 ",
-        "price": "500₹",
+        "price": 500,
         "reviews": "1.9K",
         "popularity": "5500"
       },
@@ -348,7 +348,7 @@
         "category": "Veg",
         "cuisine": "South Indian",
         "rating": "4.2 ",
-        "price": "350₹",
+        "price": 350,
         "reviews": "1.2K",
         "popularity": "4000"
       },
@@ -359,7 +359,7 @@
         "category": "Desserts",
         "cuisine": "Indian Sweets",
         "rating": "4.7 ",
-        "price": "260₹",
+        "price": 260,
         "reviews": "2.1K",
         "popularity": "6000"
       },
@@ -370,7 +370,7 @@
         "category": "Non-Veg",
         "cuisine": "North Indian",
         "rating": "4.9 ",
-        "price": "780₹",
+        "price": 780,
         "reviews": "2.8K",
         "popularity": "7500"
       },
@@ -381,7 +381,7 @@
         "category": "Desserts",
         "cuisine": "Bengali",
         "rating": "4.5 ",
-        "price": "230₹",
+        "price": 230,
         "reviews": "1.6K",
         "popularity": "4900"
       },
@@ -392,7 +392,7 @@
         "category": "Veg",
         "cuisine": "Indian",
         "rating": "4.3 ",
-        "price": "450₹",
+        "price": 450,
         "reviews": "1.7K",
         "popularity": "5200"
       },
@@ -403,7 +403,7 @@
         "category": "Veg",
         "cuisine": "Punjabi",
         "rating": "4.2 ",
-        "price": "300₹",
+        "price": 300,
         "reviews": "1.5K",
         "popularity": "4800"
       },
@@ -414,7 +414,7 @@
         "category": "Non-Veg",
         "cuisine": "Bengali",
         "rating": "4.8 ",
-        "price": "670₹",
+        "price": 670,
         "reviews": "2.2K",
         "popularity": "6800"
       },
@@ -425,7 +425,7 @@
         "category": "Veg",
         "cuisine": "Rajasthani",
         "rating": "4.7 ",
-        "price": "550₹",
+        "price": 550,
         "reviews": "2.0K",
         "popularity": "6500"
       },
@@ -436,7 +436,7 @@
         "category": "Desserts",
         "cuisine": "Bengali",
         "rating": "4.6 ",
-        "price": "290₹",
+        "price": 290,
         "reviews": "1.9K",
         "popularity": "5300"
       },
@@ -447,7 +447,7 @@
         "category": "Non-Veg",
         "cuisine": "Hyderabadi",
         "rating": "4.9 ",
-        "price": "800₹",
+        "price": 800,
         "reviews": "3.0K",
         "popularity": "7500"
       }
